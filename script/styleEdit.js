@@ -3,6 +3,7 @@ const classDivInfo = document.querySelector('.s-info');
 const sectionMain = document.querySelector('.section-main');
 const classDivQuestions = document.querySelector('.div-question');
 
+
 const originalBoxShadow = sectionMain.style.boxShadow;
 const originalBackgroundSection = sectionMain.style.background;
 

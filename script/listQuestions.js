@@ -39,6 +39,6 @@ export const questionsForQuiz = [
       "Accessebility",
       "Serve-side rendering",
     ],
-    answer: "Accessibility",
+    answer: "Accessebility",
   },
 ];
